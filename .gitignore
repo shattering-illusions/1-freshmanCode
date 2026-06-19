@@ -1,0 +1,20 @@
+# Reasonix / CodeGraph 工作目录
+.reasonix/
+.codegraph/
+AGENTS.md
+CLAUDE.md
+
+# Visual Studio 编译产物
+.vs/
+x64/
+Debug/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.tlog/
+*.ipch
+*.suo
+*.recipe
+*.log
